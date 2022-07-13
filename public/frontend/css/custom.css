@@ -1,0 +1,24 @@
+.check-form label{
+    font-size: 12px;
+    font-weight: 700;
+}
+.check-form input{
+    font-size: 14px;
+    padding: 5px;
+    font-weight: 400;
+}
+.order-detail label{
+    font-size: 12px;
+    font-weight: 700;
+}
+.order-detail div{
+    font-size: 14px;
+    padding: 5px;
+}
+.search-bar{
+    width: 40%;
+    margin-left: 5%;
+}
+.ui-menu{
+    z-index: 3000;
+}
